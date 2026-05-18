@@ -1,0 +1,15 @@
+{
+  "userId": "recipient_firebase_uid",
+  "title": "URGENT BLOOD REQUEST",
+  "body": "O- needed at City General Hospital (~3 km)",
+  "type": "BLOOD_REQUEST",
+  "read": false,
+  "payload": {
+    "bloodGroup": "O-",
+    "hospitalName": "City General Hospital",
+    "distanceKm": "3.1",
+    "requestId": "blood_request_doc_id"
+  },
+  "relatedRequestId": "blood_request_doc_id",
+  "createdAt": { "_seconds": 1710100000, "_nanoseconds": 0 }
+}

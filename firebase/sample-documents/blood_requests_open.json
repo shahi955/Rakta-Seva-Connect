@@ -1,0 +1,16 @@
+{
+  "createdBy": "hospital_uid_or_user_uid",
+  "patientName": "R. Mehta",
+  "bloodGroupNeeded": "O-",
+  "unitsRequired": 2,
+  "hospitalName": "City General Hospital",
+  "latitude": 12.9789,
+  "longitude": 77.5913,
+  "geohash": "tdr1x",
+  "contactNumber": "08012345678",
+  "emergencyLevel": "CRITICAL",
+  "notes": "OT scheduled in 4 hours. CMV negative preferred.",
+  "status": "OPEN",
+  "createdAt": { "_seconds": 1710100000, "_nanoseconds": 0 },
+  "updatedAt": { "_seconds": 1710100000, "_nanoseconds": 0 }
+}

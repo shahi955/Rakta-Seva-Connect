@@ -1,0 +1,21 @@
+{
+  "displayName": "Arun Kumar",
+  "email": "arun.kumar@example.com",
+  "phone": "9123456789",
+  "role": "user",
+  "isDonor": true,
+  "isBlocked": false,
+  "bloodGroup": "A+",
+  "gender": "male",
+  "age": 35,
+  "city": "Mysuru",
+  "taluk": "Mysuru South",
+  "lastDonationDate": { "_seconds": 1707000000, "_nanoseconds": 0 },
+  "availabilityStatus": "AVAILABLE",
+  "latitude": 12.2958,
+  "longitude": 76.6394,
+  "geohash": "tdr3k",
+  "fcmTokens": [],
+  "createdAt": { "_seconds": 1705000000, "_nanoseconds": 0 },
+  "updatedAt": { "_seconds": 1707000000, "_nanoseconds": 0 }
+}

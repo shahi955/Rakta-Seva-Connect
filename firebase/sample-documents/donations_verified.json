@@ -1,0 +1,10 @@
+{
+  "donorId": "donor_firebase_uid",
+  "requestId": "blood_request_doc_id_optional",
+  "units": 1,
+  "donationDate": { "_seconds": 1709000000, "_nanoseconds": 0 },
+  "hospitalName": "City General Hospital",
+  "notes": "Voluntary camp",
+  "verified": true,
+  "createdAt": { "_seconds": 1709000100, "_nanoseconds": 0 }
+}

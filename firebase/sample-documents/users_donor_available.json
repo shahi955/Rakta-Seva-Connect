@@ -1,0 +1,21 @@
+{
+  "displayName": "Priya Sharma",
+  "email": "priya.sharma@example.com",
+  "phone": "9876543210",
+  "role": "user",
+  "isDonor": true,
+  "isBlocked": false,
+  "bloodGroup": "O+",
+  "gender": "female",
+  "age": 28,
+  "city": "Bengaluru",
+  "taluk": "Bangalore North",
+  "lastDonationDate": null,
+  "availabilityStatus": "AVAILABLE",
+  "latitude": 12.9716,
+  "longitude": 77.5946,
+  "geohash": "tdr1w",
+  "fcmTokens": ["fcm_registration_token_example"],
+  "createdAt": { "_seconds": 1710000000, "_nanoseconds": 0 },
+  "updatedAt": { "_seconds": 1710000000, "_nanoseconds": 0 }
+}
